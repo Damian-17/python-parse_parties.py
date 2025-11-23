@@ -1,0 +1,11 @@
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.vscode/
+.idea/
+parties.json
+.DS_Store
