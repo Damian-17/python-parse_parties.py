@@ -1,11 +1,28 @@
+# Виртуальное окружение
 venv/
-env/
-.venv/
+.env
+
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
-.pytest_cache/
+*.py[cod]
+*$py.class
+
+# IDE
 .vscode/
 .idea/
-parties.json
+*.swp
+*.swo
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Project specific
+news_results.json
