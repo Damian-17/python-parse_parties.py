@@ -26,8 +26,8 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/ваш-username/парсер-партий.git
-cd парсер-партий
+git clone https://github.com/Damian-17/python-parse_parties.py
+cd python-parse_parties.py
 
 #2. Создайте виртуальное окружение (рекомендуется):
 bash
