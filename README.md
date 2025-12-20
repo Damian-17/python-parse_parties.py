@@ -35,14 +35,12 @@ python -m venv venv
 
 #3. Активируйте виртуальное окружение:
 Windows:
-bash
 venv\Scripts\activate
 Linux/Mac:
-bash
 source venv/bin/activate
 
 #4. Установите зависимости:
-bash
+
 pip install -r requirements.txt
 Использование
 
@@ -55,5 +53,4 @@ pip install -r requirements.txt
 Сохраните как politicheskie-partii.html в папке проекта
 
 #Запуск парсера
-bash
 python parse_parties.py
